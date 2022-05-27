@@ -37,3 +37,16 @@ a:not(#nome_do_id) {
 }
 ```
 
+- Comentário no CSS:
+```css
+/*
+  Comentário
+*/
+```
+- Comentário no HTML:
+```html
+<!--
+  Comentário
+-->
+```
+
