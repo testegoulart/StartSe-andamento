@@ -8,4 +8,6 @@
 - [Módulo III: Aprendendo HTML e elementos](Módulo%20III/)
 - [Módulo IV: Aprendendo CSS](Módulo%20IV/)
 
-#### Todos os materiais disponíveis aqui foram fornecidos pela StartSe para uso exclusivo no curso de Desenvolvimento WEB "Tech Academy - Turma 1".
+#### Todos os materiais disponíveis aqui foram fornecidos pela StartSe para uso exclusivo no curso de Desenvolvimento WEB "Tech Academy - Turma 1". 
+
+Sei lá o que eu to fazendo.
